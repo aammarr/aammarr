@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/aammarr"><img src="https://api.daily.dev/devcards/eeb69765eaa540e9bb3a632aa632a1cc.png?r=pku" width="400" alt="Ammar Ahmed's Dev Card"/></a>
+
 <!--
 **aammarr/aammarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
