@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
 <a href="https://app.daily.dev/aammarr"><img src="https://api.daily.dev/devcards/eeb69765eaa540e9bb3a632aa632a1cc.png?r=pku" width="400" alt="Ammar Ahmed's Dev Card"/></a>
 
 <!--
